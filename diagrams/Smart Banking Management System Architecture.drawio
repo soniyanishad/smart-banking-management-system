@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="OC24f9qH2AePyhbIHhbr">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-14" edge="1" parent="1" source="k-IsMCFg-QTlmq0Q2MmA-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k-IsMCFg-QTlmq0Q2MmA-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Admin/Customer" vertex="1">
+          <mxGeometry height="40" width="110" x="330" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="React Frontend" vertex="1">
+          <mxGeometry height="40" width="110" x="330" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-15" edge="1" parent="1" source="k-IsMCFg-QTlmq0Q2MmA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k-IsMCFg-QTlmq0Q2MmA-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spring Boot REST API" vertex="1">
+          <mxGeometry height="40" width="110" x="330" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-17" edge="1" parent="1" source="k-IsMCFg-QTlmq0Q2MmA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k-IsMCFg-QTlmq0Q2MmA-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="My SQL Databse" vertex="1">
+          <mxGeometry height="40" width="110" x="330" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-16" edge="1" parent="1" source="k-IsMCFg-QTlmq0Q2MmA-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="385" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Spring Security + JWT" vertex="1">
+          <mxGeometry height="40" width="110" x="330" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AWS RDS" vertex="1">
+          <mxGeometry height="40" width="110" x="330" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-18" edge="1" parent="1" source="k-IsMCFg-QTlmq0Q2MmA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="k-IsMCFg-QTlmq0Q2MmA-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GitHub" vertex="1">
+          <mxGeometry height="40" width="110" x="60" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-25" edge="1" parent="1" source="k-IsMCFg-QTlmq0Q2MmA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k-IsMCFg-QTlmq0Q2MmA-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="GitHub Actions" vertex="1">
+          <mxGeometry height="40" width="110" x="60" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-23" edge="1" parent="1" source="k-IsMCFg-QTlmq0Q2MmA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="k-IsMCFg-QTlmq0Q2MmA-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Docker" vertex="1">
+          <mxGeometry height="40" width="110" x="60" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="k-IsMCFg-QTlmq0Q2MmA-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="AWS EC2" vertex="1">
+          <mxGeometry height="40" width="110" x="60" y="420" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
