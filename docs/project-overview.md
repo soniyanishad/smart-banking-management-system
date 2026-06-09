@@ -14,7 +14,7 @@ Frontend:
 - Material UI
 
 Backend:
-- Java 21
+- Java 17
 - Spring Boot
 - Spring Security
 - JWT
